@@ -8,9 +8,8 @@ A short paragraph explaining what is covered in the module. This should be text 
 
 ## Prerequisite Skills
 
-*   Skill 1
-*   Skill 2
-*   Skill 3
+*   Install WordPress
+*   Log in to WorldPress
 
 * * *
 
