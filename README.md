@@ -2,7 +2,7 @@
 
 ## Description
 
-A short paragraph explaining what is covered in the module. This should be text that can be copied and used in a Meetup or workshop description.
+In this lesson you will learn how to choose a WordPress theme that suits the needs of your website.
 
 * * *
 
